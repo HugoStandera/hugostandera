@@ -1,6 +1,8 @@
 ## Hi there, I'm Hugo.
-I am a second-year BEng (Hons) Automation Engineering student at SETU, currently averaging a 2:1, with a strong interest in industrial automation, control systems, PLC programming, robotics, instrumentation, and data-driven manufacturing systems.
+I am a second-year BEng (Hons) Automation Engineering student at South East Technological University, currently achieving a 2:1 average.
 
-I am seeking a 2027 industrial placement or engineering internship where I can apply and develop my skills in automation, PLC/SCADA systems, controls, manufacturing, and process improvement.
+My main interests are industrial automation, control systems, PLC/SCADA systems, instrumentation, manufacturing automation, and data-driven production systems. I have technical experience with Siemens TIA Portal, Mitsubishi GX Works2, PLC ladder logic, structured text, CoDeSys, NI LabVIEW, and C/C++ programming.
 
-My technical experience includes Siemens TIA Portal, Mitsubishi GX Works2, PLC ladder logic, structured text, CoDeSys, NI LabVIEW, and software programming. I am open to opportunities across Switzerland and the wider EEA in automation, electrical/control, manufacturing, and industrial engineering roles.
+I am seeking a January 2027 industrial placement or engineering internship where I can apply and further develop my skills in automation, controls, manufacturing, and industrial engineering. I am particularly interested in opportunities in Poland and the Netherlands, especially Kraków, Wrocław, and the Eindhoven/Brainport region.
+
+I am bilingual in Polish and English, and also speak Spanish at an intermediate level.
