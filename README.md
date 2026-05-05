@@ -1,5 +1,5 @@
 ## Hi there, I'm Hugo.
-I am a second-year BEng (Hons) Automation Engineering student at South East Technological University, currently achieving a 2:1 average.
+I am a third-year BEng (Hons) Automation Engineering student at South East Technological University, currently achieving a 2:1 average.
  
 My main interests are industrial automation, control systems, PLC/SCADA systems, instrumentation, manufacturing automation, and data-driven production systems. I have technical experience with Siemens TIA Portal, Mitsubishi GX Works2, PLC ladder logic, Structured Text, CoDeSys, NI LabVIEW, and C/C++ programming.
  
